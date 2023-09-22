@@ -1,1 +1,1 @@
-# Kaggle-Chest-X-ray-Image-Classification
+# Kaggle_Chest_X_ray_Image_Classification
